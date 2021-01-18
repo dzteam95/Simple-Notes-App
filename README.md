@@ -10,9 +10,9 @@ Langage : Kotlin
 
 Fonctionnalités :
 
-Add Note
-Delete Note
-Edit Note
+Add Note<br>
+Delete Note<br>
+Edit Note<br>
 
 
 
@@ -28,14 +28,14 @@ Delete
 
 Libraries :
 
-Room
-Viewmodel
-Livedata
-Dagger2
-Dagger Android
-Coroutines
-Material library
-Navigation Component
+Room<br>
+Viewmodel<br>
+Livedata<br>
+Dagger2<br>
+Dagger Android<br>
+Coroutines<br>
+Material library<br>
+Navigation Component<br>
 Safe Args Plugin
   
   
